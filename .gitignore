@@ -1,0 +1,5 @@
+.env
+/env
+/vectors
+/__pycache__
+/resources
